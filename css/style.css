@@ -1,6 +1,9 @@
 p strong
 {
     color: rgba(189, 34, 7, 0.774); /* blue color for the strong list items */
+    border: 1px blue solid;
+    border-radius: 5px / 10px;
+    box-shadow: 6px 6px 20px rgba(22, 22, 255, 0.89);
 }
 em
 {

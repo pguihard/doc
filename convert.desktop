@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Exec=bash -c 'cd /home/fifix/Workspace/Python/conversion; ./venv/bin/python docx2html.py'
+Name=Convert
+Comment=Convert
+Icon=/home/fifix/Workspace/html/doc/images/convert.png

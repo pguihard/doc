@@ -1,3 +1,7 @@
+body
+{
+    font-size: large;
+}
 p strong
 {
     color: rgba(189, 34, 7, 0.774); /* blue color for the strong list items */
@@ -8,4 +12,11 @@ p strong
 em
 {
     color: rgba(6, 40, 134, 0.774); /* blue color for the strong list items */
+}
+#fixedbg{
+    background:url("../images/background.jpg") no-repeat left top;
+    position:fixed;
+    height:100%;
+    width:100%;
+    z-index:-1;
 }
